@@ -9,6 +9,23 @@ body {
     background-color: white;
     border: 1px solid #001963;
 }
+
+#update_customer_form {
+    margin: .5em 0;
+}
+#update_customer_form label {
+    width: 6em;
+    padding-right: 1em;
+    padding-bottom: .5em;
+    float: left;
+}
+#update_customer_form input {
+    float: left;
+}
+#update_customer_form input[text] {
+    width: 15em;
+}
+
 header {
     margin: 0;
     border-bottom: 2px solid black;
